@@ -2,7 +2,7 @@ ian.steigerlabs.io   [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgi
 ===================
 
 - - - -
-###  Current homepage (12/9/18) ###
+###  Current homepage (1/1/19) ###
 ![picture alt](https://steigerlabs.io/images/homepage.png "Homepage")
 
 ## License
