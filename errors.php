@@ -49,7 +49,7 @@ if ($title == false || strlen($status) != 3) {
           <div class="col-sm-8 col-md-8 col-xs-12">
             <h3><?php echo $title ?></h3>
             <p><?php echo $message ?></p>
-            <a class="btn btn-dark" href="javascript:history.back()">Go Back</a>
+            <a class="btn btn-dark" href="javascript:history.back()">Go Back</a> <a class="btn btn-dark" href="/index.html">Take me Home!</a>
           </div>
         </div>
       </div>
