@@ -1,4 +1,4 @@
-                                                     // Snackbar Code
+// Snackbar Code for downloads.html
 function snackbarJS() {
 	"use strict";
     var x = document.getElementById("snackbar");
