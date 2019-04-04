@@ -89,3 +89,6 @@ p.gray {
     from {bottom: 30px; opacity: 1;}
     to {bottom: 0; opacity: 0;}
 }
+h1.text-align-left {
+    text-align: left;
+}
